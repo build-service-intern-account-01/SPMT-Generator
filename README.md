@@ -194,4 +194,15 @@ Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](./LICENSE) pour pl
 
 ---
 
-⭐ Si ce projet vous est utile, n'hésitez pas à lui donner une étoile sur GitHub !
+<div align="center">
+
+💡 Propulsé par React, TypeScript & Tailwind CSS  
+by [**Axiorix**](https://www.axiorix.com)
+
+[![Portfolio](https://img.shields.io/badge/🌐_AXIORIX.COM-1E1E1E?style=for-the-badge&logo=vercel&logoColor=38B2AC)](https://www.axiorix.com)
+
+</div>
+
+---
+
+Made with care to showcase technical expertise in modern web development.
