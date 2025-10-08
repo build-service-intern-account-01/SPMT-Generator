@@ -40,7 +40,7 @@ Quand on vous demande vos identifiants:
 
 **Username:** `build-service-intern-account-01`
 
-**Password:** Votre **Personal Access Token** (PAS votre mot de passe!)
+**Password:** Votre Personal Access Token (gardez-le privé, ce n’est pas votre mot de passe GitHub).
 
 ### Comment obtenir un Personal Access Token:
 
