@@ -9,6 +9,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Pages](https://img.shields.io/badge/demo-live-success.svg)](https://axiorix.github.io/spmt-generator/)
 
+## 🚀 Déploiement
+
+[![Deploy Status](https://img.shields.io/github/actions/workflow/status/build-service-intern-account-01/SPMT-Generator/deploy.yml?branch=main&label=deploy&logo=github)](https://github.com/build-service-intern-account-01/SPMT-Generator/actions)
+[![Live Demo](https://img.shields.io/badge/demo-live-success?logo=vercel)](https://build-service-intern-account-01.github.io/SPMT-Generator/)
+
+**Production:** [https://build-service-intern-account-01.github.io/SPMT-Generator/](https://build-service-intern-account-01.github.io/SPMT-Generator/)
+
+Déploiement automatique via GitHub Actions sur GitHub Pages. Chaque push sur `main` déclenche un build et un déploiement.
+
 ## 📖 Aperçu / Overview
 
 **FR:** SPMT Generator (Schema & Prompt Mode Transformer) est un outil web qui transforme automatiquement du texte brut et désordonné en prompts JSON structurés et optimisés pour les LLMs. Il détecte intelligemment le type de contenu (opérationnel, créatif, analytique ou conversationnel) et génère un prompt avec le schéma approprié.
@@ -37,10 +46,6 @@
 - **Lucide React** - Icônes modernes
 - **GitHub Actions** - CI/CD automatisé
 - **GitHub Pages** - Hébergement statique
-
-## 🌐 Démo
-
-🚀 **[Voir la démo live](https://axiorix.github.io/spmt-generator/)**
 
 ## 📥 Installation
 
