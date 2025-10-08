@@ -9,14 +9,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Pages](https://img.shields.io/badge/demo-live-success.svg)](https://axiorix.github.io/spmt-generator/)
 
-## 🚀 Déploiement
+## 🌐 Démo en Ligne
 
-[![Deploy Status](https://img.shields.io/github/actions/workflow/status/build-service-intern-account-01/SPMT-Generator/deploy.yml?branch=main&label=deploy&logo=github)](https://github.com/build-service-intern-account-01/SPMT-Generator/actions)
-[![Live Demo](https://img.shields.io/badge/demo-live-success?logo=vercel)](https://build-service-intern-account-01.github.io/SPMT-Generator/)
-
-**Production:** [https://build-service-intern-account-01.github.io/SPMT-Generator/](https://build-service-intern-account-01.github.io/SPMT-Generator/)
-
-Déploiement automatique via GitHub Actions sur GitHub Pages. Chaque push sur `main` déclenche un build et un déploiement.
+[![Voir la démo](https://img.shields.io/badge/VOIR_LA_DÉMO-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://build-service-intern-account-01.github.io/SPMT-Generator/)
 
 ## 📖 Aperçu / Overview
 
