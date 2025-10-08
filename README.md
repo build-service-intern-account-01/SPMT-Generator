@@ -142,7 +142,7 @@ npm run preview
 spmt-generator/
 ├── .github/
 │   └── workflows/
-│       └── deploy.yml          # CI/CD GitHub Actions
+│       └── main.yml          # CI/CD GitHub Actions
 ├── src/
 │   ├── components/
 │   │   ├── Header.tsx          # En-tête de l'application
