@@ -11,7 +11,7 @@
 
 ## 🌐 Démo en Ligne
 
-[![Voir la démo](https://img.shields.io/badge/VOIR_LA_DÉMO-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://build-service-intern-account-01.github.io/SPMT-Generator/)
+[![Voir la démo](https://img.shields.io/badge/VOIR_LA_DÉMO-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://axiorix-pro.github.io/SPMT-Generator/)
 
 ## 📖 Aperçu / Overview
 
