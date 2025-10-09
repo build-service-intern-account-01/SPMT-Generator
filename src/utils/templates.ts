@@ -145,7 +145,7 @@ export function generatePrompt(
   };
 
   const schema_used = `Schéma ${typeLabels[type].toUpperCase()} avec champs appropriés pour du contenu ${typeLabels[type]}`;
-  const rationale = `Texte classifié comme ${typeLabels[type].toUpperCase()} avec ${confidence}% de confiance basé sur l'analyse de mots-clés. Cette classification a été déterminée en identifiant des patterns de contenu typiques des contextes ${typeLabels[type]}s.`;
+  const rationale = `Texte classifié comme ${typeLabels[type].toUpperCase()} avec ${confidence || 100}% de confiance basé sur l'analyse de mots-clés. Cette classification a été déterminée en identifiant des patterns de contenu typiques des contextes ${typeLabels[type]}s.`;
 
   return {
     type,
